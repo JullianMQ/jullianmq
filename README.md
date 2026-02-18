@@ -45,8 +45,4 @@ I'm a 4th-year BS Information Technology student majoring in Web Development. I'
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jullianmq&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=jullianmq)
