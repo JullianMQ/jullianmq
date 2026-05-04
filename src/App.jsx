@@ -8,6 +8,7 @@ import { Toaster } from "@/components/ui/toaster"
 import TestimonialsSection from "./components/TestimonialsSection"
 import AboutSection from "./components/AboutSection"
 import { SpeedInsights } from '@vercel/speed-insights/react'
+import { Analytics } from '@vercel/analytics/react'
 
 const languages = [
   {
@@ -112,6 +113,7 @@ function App() {
       <AboutSection />
       <ContactSection />
       <SpeedInsights />
+      <Analytics />
     </>
   )
 }
